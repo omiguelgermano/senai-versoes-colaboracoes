@@ -1,1 +1,0 @@
-Iniciando os testes com o git e usando o gitBash para fazer os commit's.
